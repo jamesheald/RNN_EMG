@@ -1,6 +1,6 @@
 # RNN_EMG
 
-A recurrent neural network trained to reproduce the muscle activity of human reaching movements in [[1](#references)].
+Recurrent neural network trained to reproduce the muscle activity of human reaching movements in [[1](#references)].
 
 <p align="center">
 <img src="https://github.com/jamesheald/RNN_EMG/blob/main/RNN_EMG.png" width="762" height="344">

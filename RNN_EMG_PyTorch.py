@@ -216,7 +216,7 @@ n_epochs = 500
 dropout_prob = 0.2
 learning_rate = 1e-3
 weight_decay = 1e-6
-model_path = "/Users/James/Dropbox/James MacBook/Post Wolpert Applications/CTRL/pytorch/RNN_muscles.pt"
+model_path = "/Users/James/pytorch/RNN_muscles.pt"
 
 network = RNN(input_dim,hidden_dim,n_layers,dropout_prob,output_dim=n_muscles)
 optimizer = Adam(network.parameters(),lr=learning_rate,weight_decay=weight_decay)

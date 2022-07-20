@@ -10,3 +10,7 @@ Recurrent neural network trained to reproduce the muscle activity of human reach
 ### References
 
 1. [__Heald, J.B.__, Franklin, D.W. & Wolpert, D.M. Increasing muscle co-contraction speeds up internal model acquisition during dynamic motor learning. *Scientific Reports* 8, 16355 (2018).](https://doi.org/10.1038/s41598-018-34737-5) [[SharedIt link]](https://rdcu.be/cK0Yg)
+    
+## Usage
+
+This model has been implemented using two different deep learning libraries: PyTorch (RNN_EMG_PyTorch.py) and Jax in conjunction with Flax (GRU_EMG_Jax_Flax.ipynb).

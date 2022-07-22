@@ -14,4 +14,4 @@ Recurrent neural network (RNN) trained to reproduce the muscle activity of human
 ## Models
 
 - For a vanilla RNN trained using PyTorch, see the python script RNN_EMG_PyTorch.py.
-- For a gated recurrent unit (GRU) trained using Jax in conjunction with Flax, see the Jupyter notebook GRU_EMG_Jax_Flax.ipynb.
+- For a gated recurrent unit (GRU) trained using Jax (and Flax), see the Jupyter notebook GRU_EMG_Jax_Flax.ipynb.
